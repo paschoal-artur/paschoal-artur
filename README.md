@@ -13,7 +13,7 @@
 > _In the future I hope to be a great data scientist, and I believe that with a lot of hard work and perseverance I can make it!_
 
 ### Hobbies:
-🔸**I play guitar;** __
-🔸**I play video games;** __
+🔸**I play guitar;** <br />
+🔸**I play video games;** <br />
 🔸**I play sports.**
 
