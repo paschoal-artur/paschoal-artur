@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there everyone 👋
 
-<!--
-**paschoal-artur/paschoal-artur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Artur, I am 18 years old and I'm currently attending to college, UFC, in Brazil. Studying industrial math, wich will turn to be a data science course in a future semester.
 
-Here are some ideas to get you started:
+### My birthday:
+🔸**15/01/2005**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm looking forward to study:
+🔸 _**Data science** and a lot of proggraming languages!_
+
+### What I look after in the future: 
+🔸 _In the future I hope to be a great data scientist, and I believe that with a lot of hard work and perseverance I can make it!_
+
+### Hobbies:
+🔸**Guitar;** <br />
+🔸**Video Games;** <br />
+🔸**Sports.**
