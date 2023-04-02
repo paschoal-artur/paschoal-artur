@@ -6,7 +6,7 @@
 🔸**15/01/2005**
 
 ### I'm looking forward to study:
-🔸 _**Data science** and a lot of programing languages!_
+🔸 _**Data science** and a lot of programming languages!_
 
 ### What I look after in the future: 
 🔸 _In the future I hope to be a great data scientist, and I believe that with a lot of hard work and perseverance I can make it!_
