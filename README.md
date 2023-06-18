@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/paschoal-artur/paschoal-artur/blob/main/header.png)
 <h1 align="center">Hi 👋, I'm Artur Paschoal</h1>
 <h3 align="center">A Proggramer from Brazil</h3>
 
