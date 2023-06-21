@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying data science in UFC, Brazil<br>Learning to code in Python<br>I also work with HTML, CSS, Bootstrap, JavaScript<br>I play guitar and football, that's a curiosity
+<h2 style : color = #FFD89C>I am currently studying data science in UFC, Brazil</h2><br><h2 style: color = #FFD89C>Learning to code in Python</h2><br><h2 style: color = #FFD89C>I also work with HTML, CSS, Bootstrap, JavaScript</h2><br><h2 style: color = #FFD89C>I play guitar and football, that's a curiosity</h2>
 
 
 ## 🌐 Socials:
