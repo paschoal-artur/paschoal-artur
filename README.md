@@ -17,24 +17,6 @@
 ## 🛠️ Skills & Tools
 
 <div align="center">
-  <h1>Hi, I'm Artur Paschoal! 👋</h1>
-  <p>A passionate Data Science student and Python enthusiast from Brazil 🇧🇷</p>
-</div>
-
----
-
-## ✨ About Me
-
-- 🎓 **Currently studying:** Data Science at UFC.
-- 🐍 **Learning:** Python, data manipulation, and analysis tools.
-- 🏆 **Hobbies:** Playing football and guitar.
-- 📝 **Fun Fact:** I love exploring how code can solve real-world problems.
-
----
-
-## 🛠️ Skills & Tools
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
