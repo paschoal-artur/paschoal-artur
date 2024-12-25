@@ -38,12 +38,6 @@ A Python-based recreation of the classic game featuring:
 - Dynamic gameplay using real-world data.
 - Clean, modular code structure.
 
-### [Data Analysis with Pandas](#)
-A project showcasing data manipulation and visualization techniques.
-
-### [Portfolio Website](#)
-A responsive portfolio built with HTML, CSS, and JavaScript.
-
 ---
 
 ## 🔥 GitHub Stats
@@ -61,11 +55,8 @@ A responsive portfolio built with HTML, CSS, and JavaScript.
   <a href="https://www.linkedin.com/in/artur-paschoal-18295627b/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:paschoal.artur@alu.ufc.br">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
-  </a>
-  <a href="https://github.com/paschoal-artur">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   </a>
 </div>
 
