@@ -25,13 +25,17 @@
 
 ### 🚀 Technical Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,vscode,excel,powerbi,git" height="50" alt="Technical Stack" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI" />
 </div>
 
-- **Languages**: Python (Pandas, NumPy, Matplotlib), C/C++, SQL  
-- **Tools**: Power BI, Tableau, VS Code, Jupyter Notebooks  
-- **Cloud/DevOps**: Basic AWS, Git Version Control  
-
+- **Languages**: Python (Pandas, NumPy, Matplotlib, Plotly), C/C++, SQL  
+- **Tools**: Power BI, Tableau, VS Code, Jupyter Notebooks, Excel
+- 
 ---
 
 ### 🌟 Featured Projects
@@ -74,8 +78,3 @@ Universidade Federal do Ceará | Jan 2024 - Present
   </a>
 </div>
 
-<p align="center">
-  <a href="https://paschoal-artur.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox-browser" alt="Portfolio">
-  </a>
-</p>
