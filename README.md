@@ -33,9 +33,11 @@
 <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI" />
 </div>
 
+--- 
+
 - **Languages**: Python (Pandas, NumPy, Matplotlib, Plotly), C/C++, SQL  
 - **Tools**: Power BI, Tableau, VS Code, Jupyter Notebooks, Excel
-- 
+
 ---
 
 ### 🌟 Featured Projects
