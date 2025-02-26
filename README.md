@@ -62,7 +62,9 @@
 ### 📈 Professional Experience
 **Scientific Initiation Scholarship Holder at the Laboratory of Numerical Simulations (LSN).**  
 Universidade Federal do Ceará | Jan 2024 - Present  
-- Developed Data Analysis and Numerical Methods for Physics Problems
+- Data Analysis
+- Numerical Methods
+- Data Structures
 - Esp32 and Arduino Implementations
 
 ---
