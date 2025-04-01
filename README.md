@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" alt="Email">
     </a>
   </p>
-  <p>Data Science Student | Data Analysis Enthusiast</p>
+  <p>Data Science | Data Analysis</p>
 </div>
 
 ---
